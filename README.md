@@ -31,10 +31,5 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hessah95&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
-
-  ## ☕️ You can help me by keeping me awake
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Hessah) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
