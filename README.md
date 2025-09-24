@@ -31,5 +31,8 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hessah95&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+
+## 🤓 CodeWar
+![](https://www.codewars.com/users/Hessah95/badges/small)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
